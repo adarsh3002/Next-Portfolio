@@ -19,11 +19,11 @@ export default function Contact() {
                 where reliability and product thinking matter.
               </p>
               <div className="mt-8 flex flex-col gap-3 sm:flex-row">
-                <MagneticButton href="mailto:adarsh@example.com" variant="dark">
+                <MagneticButton href="mailto:ak47kumaradarsh@gmail.com" variant="dark">
                   <Send size={17} /> Email me
                 </MagneticButton>
                 <a
-                  href="https://www.linkedin.com"
+                  href="https://www.linkedin.com/in/adarsh-kumar-634740228"
                   target="_blank"
                   rel="noreferrer"
                   className="inline-flex items-center justify-center rounded-full border border-white/15 px-6 py-3 text-sm font-semibold text-white transition hover:-translate-y-1 hover:border-cyan-300 hover:text-cyan-200"
@@ -38,7 +38,7 @@ export default function Contact() {
                 <Mail className="size-5 text-cyan-300" />
                 <div>
                   <p className="text-sm text-slate-400">Email</p>
-                  <p className="font-medium">adarsh@example.com</p>
+                  <p className="font-medium">ak47kumaradarsh@gmail.com</p>
                 </div>
               </div>
               <div className="flex items-center gap-3 border-b border-white/10 py-5">
